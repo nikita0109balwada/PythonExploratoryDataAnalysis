@@ -21,7 +21,6 @@ This project aims to analyze trends, patterns, and insights related to hospital 
 - `scikit-learn`
 - `Jupyter Notebook`
 
----
 ## 📁 Project Structure
 
 ```bash
